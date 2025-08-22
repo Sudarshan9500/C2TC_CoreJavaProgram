@@ -1,5 +1,5 @@
 //Program to define class with Covariant Method Overriding 
-package Day7.overriding.covariant;
+package Day7.overridding.covariant;
 
 //Student class
 class Student implements Cloneable {

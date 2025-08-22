@@ -1,5 +1,5 @@
 //Program to demonstrate covariant overriding
-package Day7.overriding.covariant;
+package Day7.overridding.covariant;
 
 //base class
 class Color {

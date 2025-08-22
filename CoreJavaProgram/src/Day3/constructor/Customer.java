@@ -1,7 +1,5 @@
 package Day3.constructor;
 
-import java.util.Scanner;
-
 public class Customer {
 	 private String customerName;
 	 private int customerId;

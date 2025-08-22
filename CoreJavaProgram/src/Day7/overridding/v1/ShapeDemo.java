@@ -1,5 +1,5 @@
 //Program to demonstrate Runtime Polymorphism using Method Overriding
-package Day7.overriding.v1;
+package Day7.overridding.v1;
 
 public class ShapeDemo {
 	public static void main(String[] args) {

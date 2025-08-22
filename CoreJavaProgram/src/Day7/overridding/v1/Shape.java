@@ -1,6 +1,6 @@
 
 //Program to define Base class Shape
-package Day7.overriding.v1;
+package Day7.overridding.v1;
 
 
 public class Shape {
